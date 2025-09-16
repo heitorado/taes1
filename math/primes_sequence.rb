@@ -5,5 +5,5 @@ require 'prime'
 
 Prime.each do |p|
   puts p
-  sleep 0.5  # optional pause
+  sleep 1.5  # optional pause
 end
