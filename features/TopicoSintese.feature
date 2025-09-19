@@ -10,5 +10,5 @@ dfsd
 - Cenário 3
 -Cenário de mudança 3 then
 -Cenário Adicionado na Branch
--Cenário Adicionado na Branch2
+-Cenário Adicionado na Branch2 alterado na fix
 
