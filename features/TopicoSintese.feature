@@ -8,4 +8,5 @@ dfsd
   - Passo adicional no cenário de Falha 2
   - Outro passo no cenário
 - Cenário 3
+-Cenário de mudança 3
 - Cenário 4
